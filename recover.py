@@ -11,7 +11,7 @@ Account.enable_unaudited_hdwallet_features()
 # REPLACE with your words
 recovery_words = ['word1', 'UNKNOWN', 'word3',  'word4',  'word5',  'word6', 'word7',  'word8',  'word9',  'word10',  'word11',  'word12']
 # REPLACE with your wallet address
-wallet_address = '0xc41e0aBa3d182cAE96e1F7DBe043B58860254833'
+wallet_address = '0x............'
 word_list = []
 
 
